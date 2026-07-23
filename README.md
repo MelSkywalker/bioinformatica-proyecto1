@@ -1,4 +1,67 @@
-# bioinformatica-proyecto1
-Primera tarea de la materia Introducción a la Programación Científica de la maestría en Bioinformática.
+# Proyecto 1 — Bioinformática
 
-Tarea #1
+> **Curso:** Introducción a la Programación Científica
+> **Programa:** Maestría en Bioinformática
+> **Fecha:** Julio 2026
+
+---
+
+## Descripción
+
+Este proyecto es el primer trabajo práctico del curso de Introducción a la Programación Científica. Este es un proyecto ficticio de bioinformática cuyo objetivo es el uso de Git.
+
+## Estructura del repositorio
+
+```
+bioinformatica-proyecto1/
+├── data/               # Datos de entrada (secuencias, tablas, etc.)
+├── scripts/            # Scripts de análisis
+├── results/            # Resultados generados (figuras, tablas)
+├── README.md           # Este archivo
+└── LICENSE
+```
+
+---
+
+## Instrucciones de uso
+
+### Requisitos previos
+
+- Python 3.9+ (o R 4.x según corresponda)
+- Paquetes necesarios listados en `requirements.txt` (o `environment.yml`)
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/MelSkywalker/bioinformatica-proyecto1.git
+cd bioinformatica-proyecto1
+
+# Crear entorno virtual (Python)
+python -m venv venv
+source venv/bin/activate
+
+# Instalar dependencias
+pip install -r requirements.txt
+```
+
+### Ejecución
+
+```bash
+# Correr el script principal
+python scripts/main.py --input data/sequences.fasta --output results/
+
+# O abrir el notebook interactivo
+jupyter notebook notebooks/analisis.ipynb
+```
+
+---
+
+## Datos
+
+Los datos utilizados en este proyecto son de carácter ficticio.
+
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia especificada en el archivo [LICENSE](LICENSE).
+
