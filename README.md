@@ -26,6 +26,7 @@ bioinformatica-proyecto1/
 
 - Melisa Quesada Corza
 - Jacob Israel Gonzalez Ruiz
+- Cecilia Isabel Peiro Alcántar
 ```
 
 ## Instrucciones de uso
