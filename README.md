@@ -6,9 +6,9 @@
 
 ## Descripción
 
-Este proyecto es el primer trabajo práctico del curso de Introducción a la Programación Científica. El cual tiene como objetivo la creación de un repositorio que permita un flujo de trabajo estandarizado y la trazabilidad de los cambios. Posibilitando una comunicación y colaboración más eficiente en el proyecto.
+Este proyecto corresponde al primer trabajo práctico del curso de Introducción a la Programación Científica. Su objetivo es crear un repositorio que permita un flujo de trabajo estandarizado y la trazabilidad de los cambios, posibilitando una comunicación y colaboración más eficientes entre los integrantes del proyecto.
 
-Este es un proyecto ficticio de bioinformática cuyo objetivo es el uso de Git.
+Se trata de un proyecto ficticio de bioinformática cuyo propósito principal es practicar el uso de Git y GitHub para el control de versiones y el trabajo colaborativo.
 
 ## Estructura del repositorio
 
@@ -26,6 +26,7 @@ bioinformatica-proyecto1/
 
 - Melisa Quesada Corza
 - Jacob Israel Gonzalez Ruiz
+- Cecilia Isabel Peiro Alcántar
 ```
 
 ## Instrucciones de uso
